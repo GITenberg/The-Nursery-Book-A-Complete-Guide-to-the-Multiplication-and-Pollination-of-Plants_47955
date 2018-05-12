@@ -1,4 +1,8 @@
 _repo: The-Nursery-Book-A-Complete-Guide-to-the-Multiplication-and-Pollination-of-Plants_47955
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47955-h/images/cover.jpg
 creator:
   author:
     agent_name: Bailey, L. H. (Liberty Hyde)
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3089
     wikipedia: http://en.wikipedia.org/wiki/Liberty_Hyde_Bailey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47955#The-Nursery-Book-A-Complete-Guide-to-the-Multiplication-and-Pollination-of-Plants
 gutenberg_issued: '2015-01-13'
 gutenberg_type: Text
 identifiers:
